@@ -12,7 +12,7 @@ Built with **Python + Streamlit**.
 
 Try the tool online:
 
-https://your-app-name.streamlit.app
+https://stack-trace-root-cause-finder.streamlit.app
 
 
 ---
@@ -172,6 +172,6 @@ This project targets common developer searches such as:
 
 You may also be interested in:
 
-- Crash Log Analyzer
+- Crash Log Analyzer : https://crash-log-analyzer.streamlit.app
 
 These tools help developers debug logs more efficiently.
