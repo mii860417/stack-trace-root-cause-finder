@@ -139,3 +139,5 @@ if analyze_clicked:
         st.code(result["root_frame"], language="text")
 
         st.markdown(f"**File / Line:** `{result['file_line']}`")
+
+st.caption("If this tool helped you, please ⭐ the GitHub repo.")
