@@ -173,5 +173,6 @@ This project targets common developer searches such as:
 You may also be interested in:
 
 - Crash Log Analyzer : https://crash-log-analyzer.streamlit.app
+- Logcat Error Filter : https://logcat-error-filter.streamlit.app
 
 These tools help developers debug logs more efficiently.
